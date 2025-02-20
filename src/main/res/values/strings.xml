@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="current_number">0</string>
+</resources>
